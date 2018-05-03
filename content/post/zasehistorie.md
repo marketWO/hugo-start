@@ -1,0 +1,9 @@
+---
+title: "Přehled vývoje mincovnictví v Čechách a na Moravě"
+date: 2018-05-02T18:40:57+02:00
+---
+
+První českou raženou měnou byly denáry, které se začaly razit na konci vlády krále Boleslava I., zhruba po roce 970. Byly to malé oboustranné stříbrné mince o váze 1,5 g a poměrně vysoké ryzosti. Do té doby v Čechách obíhaly ve funkci platidla jakési jemné šátečky. Jeden denár stačil pro jednoho člověka na měsíční živobytí. Název denár odvozen z latinského denarius dena = deset, protože denár se dělil na 10 měděných mincí asů.
+Denáry razili i všichni další přemyslovští vládci. Toto období, přibližně od roku 970 do 1210, kdy byla ražba denáru byla ukončena, nazýváme jako období denárové. Ve druhém desetiletí 13. století, za vlády Přemysla Otakara I., dochází k měnové reformě a denáry jsou nahrazeny novými mincemi, tzv. brakteáty. Brakteáty jsou mince ražené na velmi tenkém stříbrném plíšku, od latinského bractea – tenký plech. Na rozdíl od denárů měly brakteáty obraz jen po jedné straně, což umožňovalo, vzhledem k nepatrné tloušťce jejich střížku, ražbu několika kusů najednou – jedním úderem kladiva na razidlo. Tuto výhodu ale na druhé straně kompenzovala nepraktičnost mince v běžném obchodu, kde se křehké brakteáty často lámaly a rozpadávaly se na kusy. Proto z nich obchodníci vytvářeli tzv. svitky, kdy naskládali několik brakteátů na sebe a ohnuli je po okrajích tak, aby držely pohromadě.
+Brakteáty skončily svou roli jako česká měna v roce 1 300, kdy dochází k celkové rekonstrukci české měny reformou krále Václava II. Po vzoru Florenci se začaly v Kutné Hoře razit stříbrné pražské groše, opět oboustranné. Grošové období trvalo do roku 1573. K nejznámějším mincím grošového období dále patří parvus nebo zlatý dukát.
+Po roce 1573 jsou groše nahrazeny tolary, krejcary nebo grešlemi, a to až do roku 1892, kdy byla zavedena koruna a haléře.
